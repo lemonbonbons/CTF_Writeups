@@ -1,2 +1,2 @@
 # CTF Writeups
-CTF write-ups | POC | HackTheBox | TryHackMe | VulnHub
+CTF write-ups | HackTheBox | TryHackMe | VulnHub
